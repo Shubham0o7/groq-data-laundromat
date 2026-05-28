@@ -96,7 +96,7 @@ if uploaded_file is not None:
             if missing_count > 0 or duplicate_count > 0:
                 st.warning("⚠️ **Status:** Contaminants detected. Scrubbing recommended.")
             else:
-                st.success("✅ **Status:** Fabric is clean. Ready forInsight Reporter.")
+                st.success("✅ **Status:** Fabric is clean. Ready for Insight Reporter.")
 
     st.markdown("---")
 
