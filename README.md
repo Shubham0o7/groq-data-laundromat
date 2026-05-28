@@ -23,6 +23,15 @@ Heavy arithmetic, sorting, multi-dimensional grouping, and pivot profile compila
 
 ---
 
+## 🧰 Tech Stack
+* **Frontend UI:** Streamlit Cloud Layer
+* **Inference Engine:** Groq Cloud API (`llama-3.1-8b-instant`)
+* **Orchestration:** LangChain Core Components
+* **Data Processing:** Pandas, NumPy & Tabulate
+* **Visualizations:** Matplotlib & Seaborn
+
+---
+
 ## 📋 Repository Directory Structure
 
 ```text
@@ -87,18 +96,6 @@ GROQ_API_KEY = "gsk_your_private_key_here"
 
 ```
 
-
-
-```
 3. To protect infrastructure limits and quota footprints after a live presentation or evaluation window concludes, the deployment administrator can seamlessly revoke the key active string directly inside the **Groq Console** or delete the container allocation from the Streamlit deployment manager dashboard.
 
----
 
-## 🧰 Tech Stack
-* **Frontend UI:** Streamlit Cloud Layer
-* **Inference Engine:** Groq Cloud API (`llama-3.1-8b-instant`)
-* **Orchestration:** LangChain Core Components
-* **Data Processing:** Pandas, NumPy & Tabulate
-* **Visualizations:** Matplotlib & Seaborn
-
-```
