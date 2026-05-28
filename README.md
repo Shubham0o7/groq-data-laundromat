@@ -15,7 +15,7 @@ By leveraging the speed of **Llama 3.1 8B** via the Groq API and coupling it wit
 
 ---
 
-## 🛠️ Architecture & High-Scale Optimization
+## 🛠️ Scalable Optimized Architecture
 
 Unlike traditional data-to-text architectures that feed massive raw CSV rows straight into an LLM context window—which crashes from token inflation—this app utilizes a **Metadata & Summary-Driven Aggregation** pattern.
 
