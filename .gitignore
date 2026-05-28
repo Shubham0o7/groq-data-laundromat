@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Custom App Overrides
+.env
+chart1.png
+chart2.png
